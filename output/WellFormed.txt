@@ -5,5 +5,5 @@ braces.
 A System.out.println statement
 has ( and ) and usually a
 String that starts and ends
-with a " chararter.
+with a " character.
 (But we type \" instead!)
