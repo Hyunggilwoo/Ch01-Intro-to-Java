@@ -1,5 +1,6 @@
 // Author Hyunggil Woo
 
+
 public class StarFigures {
 	public static void main(String[] args) {
 		
