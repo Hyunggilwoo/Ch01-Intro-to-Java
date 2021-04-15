@@ -1,5 +1,6 @@
 // Author Hyunggil Woo
 
+
 public class MuchBetter {
 	public static void main(String[] args) {
 	
